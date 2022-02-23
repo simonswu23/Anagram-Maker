@@ -1,4 +1,3 @@
-//AnagramSolver
 //Creates class AnagramSolver that generates an in-order list of 
 //all possible anagrams of a user-prompted phrase from a dictionary of words
 
