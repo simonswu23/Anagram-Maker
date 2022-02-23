@@ -1,6 +1,3 @@
-//Simon Wu
-//10/7/2021
-//CSE 143 Section AP, Neel Jog
 //LetterInventory
 //Constructs the object LetterInventory which keeps the count of the 
 //letters (not case-sensitive) in a given String.
